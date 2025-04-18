@@ -1,7 +1,7 @@
 ssue Support and Tracking System (IsTS)
 
 <img alt="React" src="https://img.shields.io/badge/React-19-blue.svg">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-16.x-green.svg">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-22.x-green.svg">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4.x-green.svg">
 <img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg">
 
