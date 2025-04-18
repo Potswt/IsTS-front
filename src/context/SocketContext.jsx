@@ -16,7 +16,7 @@ import { API_BASE_URL } from "../utils/baseApi"; // นำเข้า base API 
 export const SocketContext = createContext();
 
 // URL ของ Socket.io server และ API
-const SOCKET_URL = "http://172.18.43.39:5000";
+const SOCKET_URL = "http://localhost:4000";
 
 export const SocketProvider = ({ children }) => {
   const [socket, setSocket] = useState(null);
