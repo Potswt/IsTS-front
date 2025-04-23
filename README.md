@@ -1,4 +1,4 @@
-# IsTS - ระบบรายงานและติดตามปัญหา
+# IsTS - ระบบสนับสนุนและติดตามปัญหาของฝ่าย IT
 
 ## ภาพรวม
 
@@ -106,7 +106,7 @@ IsTS (Issue Support and Tracking System) เป็นเว็บแอปพล
 ### การตั้งค่า Frontend
 1. นำทางไปยังไดเรกทอรี Front-end:
    ```
-   cd IsTS/IsTS_back
+   cd IsTS/Back-end
    ```
 
 2. ติดตั้ง dependencies:
